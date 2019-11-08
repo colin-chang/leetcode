@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Test", "Amazon.Test\Amazon.Test.csproj", "{E51AF0CB-B33E-4262-BD02-A695A8E66B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Solutions", "Amazon.Solutions\Amazon.Solutions.csproj", "{713CA1C4-1EB6-47B6-90C0-D3A44CB87477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E51AF0CB-B33E-4262-BD02-A695A8E66B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51AF0CB-B33E-4262-BD02-A695A8E66B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51AF0CB-B33E-4262-BD02-A695A8E66B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51AF0CB-B33E-4262-BD02-A695A8E66B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713CA1C4-1EB6-47B6-90C0-D3A44CB87477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713CA1C4-1EB6-47B6-90C0-D3A44CB87477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713CA1C4-1EB6-47B6-90C0-D3A44CB87477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713CA1C4-1EB6-47B6-90C0-D3A44CB87477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
